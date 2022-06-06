@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mitch!
-- 👀 I’m interested in full stack development and machine learning
-- 🌱 I’m currently learning full stack development
+- 👀 I’m a software interested in machine learning
 - 📫 How to reach me: mitch.williams.career@gmail.com
 
 <!---
