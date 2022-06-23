@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mitch!
-- 👀 I’m a software interested in machine learning
+- 👀 I’m a software engineer interested in machine learning
 - 📫 How to reach me: mitch.williams.career@gmail.com
 
 <!---
